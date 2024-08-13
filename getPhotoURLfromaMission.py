@@ -1,3 +1,5 @@
+# This gets the photo URLs from a mission
+
 import requests
 from datetime import datetime, timezone
 from dateutil.parser import parse

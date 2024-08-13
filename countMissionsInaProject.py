@@ -1,3 +1,5 @@
+#This counts each mission in a project
+
 import requests
 from datetime import datetime, timezone
 from dateutil.parser import parse

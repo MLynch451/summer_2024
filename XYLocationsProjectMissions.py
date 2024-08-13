@@ -1,3 +1,5 @@
+# This gets the XY location from the first mission in each project in an org
+
 import requests
 from datetime import datetime, timezone
 from dateutil.parser import parse

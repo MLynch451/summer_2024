@@ -1,3 +1,5 @@
+#This creates a site scan API token
+
 import requests
  
 SITESCAN_API = "https://sitescan-api.arcgis.com/api/v2"
